@@ -1,4 +1,4 @@
-#Fashion MNIST Classification with PyTorch
+Fashion MNIST Classification with PyTorch
 This notebook demonstrates a simple image classification task using the Fashion MNIST dataset and a basic neural network implemented with PyTorch.
 
 Project Description
